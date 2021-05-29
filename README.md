@@ -1,4 +1,4 @@
-### Hi <gif src="{https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif}"/> I'm Kelvin Zolotareff 👨🏻‍💻✨
+### Hi <img src="./hi.gif" width="30px"> I'm Kelvin Zolotareff 👨🏻‍💻✨
 
 <!--
 
