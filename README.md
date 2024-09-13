@@ -45,10 +45,3 @@
   <li><strong>Sistema de Recolocação de Funcionários:</strong> Desenvolvi um sistema para facilitar a realocação de funcionários após término de contrato, otimizando o gerenciamento de talentos e reduzindo a rotatividade.</li>
   <li><strong>Atento AI Studio:</strong> Apoiei o desenvolvimento da plataforma Atento AI Studio, que integra soluções baseadas em IA para aprimorar a tomada de decisões e a automação de processos em vários departamentos.</li>
 </ul>
-
-<h2 align="center">📬 Contatos</h2>
-<p align="left">
-  • <a href="mailto:kelvinzolotareff@gmail.com" style="display: inline-flex; align-items: center; margin-bottom: 10px;">Email</a><br/>
-  • <a href="https://www.linkedin.com/in/kelvinzolotareff/" style="display: inline-flex; align-items: center; margin-bottom: 10px;">LinkedIn</a><br/>
-  • <a href="https://kelvinzolotareff.github.io" style="display: inline-flex; align-items: center;">Portfólio</a>
-</p>
