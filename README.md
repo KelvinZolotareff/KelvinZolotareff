@@ -17,6 +17,15 @@
 • Atento AI Studio: Apoiei o desenvolvimento da plataforma Atento AI Studio, que integra soluções baseadas em IA para aprimorar a tomada de decisões e a automação de processos em vários departamentos.
 
 📬 Contato
-<p align="center"> <a href="mailto:kelvinzolotareff@gmail.com"> <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Icon"/> <h3>kelvinzolotareff@gmail.com</h3> </a> <a href="https://www.linkedin.com/in/kelvinzolotareff/"> 
-<img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon"/> linkedin.com/in/kelvinzolotareff </a> <a href="https://kelvinzolotareff.github.io"> 
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Icon"/> kelvinZolotareff.github.io </a> </p>
+<p align="center">
+  <a href="mailto:kelvinzolotareff@gmail.com">
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Icon"/> kelvinzolotareff@gmail.com
+  </a><br/>
+  <a href="https://www.linkedin.com/in/kelvinzolotareff/">
+    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon"/> linkedin.com/in/kelvinzolotareff
+  </a><br/>
+  <a href="https://kelvinzolotareff.github.io">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Icon"/> KelvinZolotareff.github.io
+  </a>
+</p>
+
