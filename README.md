@@ -16,18 +16,18 @@
 
 • Atento AI Studio: Apoiei o desenvolvimento da plataforma Atento AI Studio, que integra soluções baseadas em IA para aprimorar a tomada de decisões e a automação de processos em vários departamentos.
 
-📬 Contato
+📬 Contatos
 <p align="left">
   <a href="mailto:kelvinzolotareff@gmail.com" style="display: inline-flex; align-items: center; margin-bottom: 10px;">
-    Email
+    • Email
   </a><br/>
 
   <a href="https://www.linkedin.com/in/kelvinzolotareff/" style="display: inline-flex; align-items: center; margin-bottom: 10px;">
-   LinkedIn
+   • LinkedIn
   </a><br/>
 
   <a href="https://kelvinzolotareff.github.io" style="display: inline-flex; align-items: center;">
-    Portifolio
+   • Portifolio
   </a>
 </p>
 
