@@ -1,5 +1,5 @@
 <h1 align="center">Kelvin S. Zolotareff <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" width="30px" alt="Hello"/> </h1>
-<p align="center"> <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white" alt="ASP.NET"/> <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=MVC&logoColor=white" alt="Entity Framework"/> 
+<p align="center"> <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/-.NET%20Framework-512BD4?style=flat&logo=.net&logoColor=white" alt=".NET"/> <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=MVC&logoColor=white" alt="Entity Framework"/> 
   <img src="https://img.shields.io/badge/MVC-b5008c?style=flat&logo=MVC&logoColor=white" alt="Entity Framework"/> <img src="https://img.shields.io/badge/-SQL%20Server-b5a700?style=flat&logo=MVC&logoColor=white" alt="SQL Server"/> </p>
 
 <p align="center">
@@ -19,16 +19,16 @@
 
 📬 Contatos
 <p align="left">
-  <a href="mailto:kelvinzolotareff@gmail.com" style="display: inline-flex; align-items: center; margin-bottom: 10px;">
-    • Email
+ • <a href="mailto:kelvinzolotareff@gmail.com" style="display: inline-flex; align-items: center; margin-bottom: 10px;">
+     Email
   </a><br/>
 
-  <a href="https://www.linkedin.com/in/kelvinzolotareff/" style="display: inline-flex; align-items: center; margin-bottom: 10px;">
-   • LinkedIn
+ • <a href="https://www.linkedin.com/in/kelvinzolotareff/" style="display: inline-flex; align-items: center; margin-bottom: 10px;">
+    LinkedIn
   </a><br/>
 
-  <a href="https://kelvinzolotareff.github.io" style="display: inline-flex; align-items: center;">
-   • Portifolio
+ • <a href="https://kelvinzolotareff.github.io" style="display: inline-flex; align-items: center;">
+    Portifolio
   </a>
 </p>
 
