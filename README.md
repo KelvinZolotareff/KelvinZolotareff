@@ -1,5 +1,6 @@
 <h1 align="center">Kelvin S. Zolotareff <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" width="30px" alt="Hello"/> </h1>
-<p align="center"> <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white" alt="ASP.NET"/> <img src="https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white" alt="Entity Framework"/> <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white" alt="ASP.NET"/> <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=MVC&logoColor=white" alt="Entity Framework"/> 
+  <img src="https://img.shields.io/badge/MVC-512BD4?style=flat&logo=MVC&logoColor=white" alt="Entity Framework"/><img src="https://img.shields.io/badge/-SQL%20Server-ffc800?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/IoT_Enthusiast-0000FF?style=flat&logo=arduino&logoColor=white" alt="IoT Enthusiast"/>
