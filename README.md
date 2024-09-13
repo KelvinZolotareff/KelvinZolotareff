@@ -1,13 +1,12 @@
-<p align="center"> <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" width="30px" alt="Hello"/> </p> <h1 align="center">Kelvin S. Zolotareff</h1> <p align="center">C# | .NET Developer | IoT Enthusiast</p>
+<p align="center"> <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" width="30px" alt="Hello"/> </p> <h1 align="center">Kelvin S. Zolotareff</h1> <p align="center">
+<p align="center"> <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white" alt="ASP.NET"/> <img src="https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white" alt="Entity Framework"/> <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/> </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT_Enthusiast-0000FF?style=flat&logo=arduino&logoColor=white" alt="IoT Enthusiast"/>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"/> <img src="https://img.shields.io/badge/CI%2FCD-0078D7?style=flat&logo=azure-pipelines" alt="CI/CD"/> <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> </p></p>
 👨‍💻 Sobre Mim
 Com mais de 5 anos de experiência em desenvolvimento com C# e .NET Framework, tenho atuado no desenvolvimento e suporte de aplicações web que impactaram mais de 400 empresas clientes. Participei de projetos-chave, contribuindo para o desenvolvimento de soluções escaláveis e confiáveis. Em meu tempo livre, gosto de explorar projetos de engenharia, robótica e internet das coisas, utilizando Arduino, Raspberry pi, etc. Além de desenvolver jogos indies 2D/3D com Unity.
 
-💻 Habilidades
-Desenvolvimento Web:
-
-<p align="center"> <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white" alt="ASP.NET"/> <img src="https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white" alt="Entity Framework"/> <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/> </p>
-
-<p align="center"> <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"/> <img src="https://img.shields.io/badge/CI%2FCD-0078D7?style=flat&logo=azure-pipelines" alt="CI/CD"/> <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> </p>
 
 🏆 Principais Projetos
 
