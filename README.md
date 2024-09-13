@@ -1,5 +1,5 @@
-<h2 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/2560px-Flag_of_Canada.svg.png" width="30" alt="Canada Flag"/> </h2>
+<h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/2560px-Flag_of_Canada.svg.png" width="30" alt="Canada Flag"/> English</h2>
   <h1 align="center">
   Kelvin S. Zolotareff <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" width="30px" alt="Hello"/>
 </h1>
@@ -34,8 +34,8 @@
   • <a href="https://www.linkedin.com/in/kelvinzolotareff/" style="display: inline-flex; align-items: center; margin-bottom: 10px;">LinkedIn</a>
   • <a href="https://kelvinzolotareff.github.io" style="display: inline-flex; align-items: center;">Portfolio</a>
 </p>
-<h2 align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="30" alt="Brazil Flag"/></h2>
+<h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="30" alt="Brazil Flag"/> Portuguese</h2>
 
 <h4 align="center">👨‍💻 Com mais de 5 anos de experiência em desenvolvimento com C# e .NET Framework, tenho atuado no desenvolvimento e suporte de aplicações web que impactaram mais de 400 empresas clientes. Participei de projetos-chave, contribuindo para o desenvolvimento de soluções escaláveis e confiáveis. Em meu tempo livre, gosto de explorar projetos de engenharia, robótica e internet das coisas, utilizando Arduino, Raspberry Pi, etc. Além de desenvolver jogos indies 2D/3D com Unity.</h4>
 
