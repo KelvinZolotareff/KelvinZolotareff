@@ -1,4 +1,4 @@
-<h1 align="center">Kelvin S. Zolotareff</h1> <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" width="30px" alt="Hello"/> <p align="center">
+<h1 align="center">Kelvin S. Zolotareff <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" width="30px" alt="Hello"/> </h1>
 <p align="center"> <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white" alt="ASP.NET"/> <img src="https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white" alt="Entity Framework"/> <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/> </p>
 
 <p align="center">
@@ -22,10 +22,10 @@
     <img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Icon" style="width: 20px; height: 20px; margin-right: 8px;"/> kelvinzolotareff@gmail.com
   </a>
   <a href="https://www.linkedin.com/in/kelvinzolotareff/" style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Icon" style="width: 20px; height: 20px; margin-right: 8px;"/> linkedin.com/in/kelvinzolotareff
+    <img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Icon" style="width: 30px; height: 30px; margin-right: 8px;"/> linkedin.com/in/kelvinzolotareff
   </a>
   <a href="https://kelvinzolotareff.github.io" style="display: inline-flex; align-items: center;">
-    <img src="https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white" alt="Website Icon" style="width: 20px; height: 20px; margin-right: 8px;"/> KelvinZolotareff.github.io
+    <img src="https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white" alt="Website Icon" style="width: 30px; height: 30px; margin-right: 8px;"/> KelvinZolotareff.github.io
   </a>
 </p>
 
