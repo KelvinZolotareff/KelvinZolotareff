@@ -19,13 +19,13 @@
 📬 Contato
 <p align="left">
   <a href="mailto:kelvinzolotareff@gmail.com" style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Icon" style="width: 20px; height: 20px; margin-right: 8px;"/> kelvinzolotareff@gmail.com
+    <img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Icon" style="width: 20px; margin-right: 8px;"/> kelvinzolotareff@gmail.com
   </a>
   <a href="https://www.linkedin.com/in/kelvinzolotareff/" style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Icon" style="width: 30px; height: 30px; margin-right: 8px;"/> linkedin.com/in/kelvinzolotareff
+    <img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Icon" style="width: 30px; margin-right: 8px;"/> linkedin.com/in/kelvinzolotareff
   </a>
   <a href="https://kelvinzolotareff.github.io" style="display: inline-flex; align-items: center;">
-    <img src="https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white" alt="Website Icon" style="width: 30px; height: 30px; margin-right: 8px;"/> KelvinZolotareff.github.io
+    <img src="https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white" alt="Website Icon" style="width: 30px; margin-right: 8px;"/> KelvinZolotareff.github.io
   </a>
 </p>
 
