@@ -1,4 +1,8 @@
-<h1 align="center">
+<h2 align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/2560px-Flag_of_Canada.svg.png" width="30" alt="Canada Flag"/> 
+  Canada / English 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="30" alt="Brazil Flag"/>
+</h2>![image](https://github.com/user-attachments/assets/91508e96-e432-4014-a760-707792f6585d)<h1 align="center">
   Kelvin S. Zolotareff <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" width="30px" alt="Hello"/>
 </h1>
 
@@ -6,8 +10,8 @@
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/-.NET%20Framework-512BD4?style=flat&logo=.net&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=entity-framework&logoColor=white" alt="Entity Framework"/>
-  <img src="https://img.shields.io/badge/MVC-8C8C8C?style=flat&logo=angular&logoColor=white" alt="MVC"/>
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MVC-b5008c?style=flat&logo=MVC&logoColor=white" alt="MVC"/>
+  <img src="https://img.shields.io/badge/-SQL%20Server-b5a700?style=flat&logo=MVC&logoColor=white" alt="SQL Server"/>
 </p>
 
 <p align="center">
@@ -17,7 +21,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<h2 align="center">👨‍💻 With over 5 years of experience in C# and .NET Framework development, I have worked on and supported web applications impacting more than 400 client companies. I’ve been part of key projects, contributing to scalable and reliable solutions. In my free time, I enjoy exploring engineering, robotics, and IoT projects using Arduino, Raspberry Pi, etc., as well as developing 2D/3D indie games with Unity.</h2>
+<h4 align="center">👨‍💻 With over 5 years of experience in C# and .NET Framework development, I have worked on and supported web applications impacting more than 400 client companies. I’ve been part of key projects, contributing to scalable and reliable solutions. In my free time, I enjoy exploring engineering, robotics, and IoT projects using Arduino, Raspberry Pi, etc., as well as developing 2D/3D indie games with Unity.</h4>
 
 <h2 align="center">🏆 Key Projects</h2>
 <ul>
@@ -28,12 +32,12 @@
 
 <h2 align="center">📬 Contact</h2>
 <p align="left">
-  • <a href="mailto:kelvinzolotareff@gmail.com" style="display: inline-flex; align-items: center; margin-bottom: 10px;">Email</a><br/>
-  • <a href="https://www.linkedin.com/in/kelvinzolotareff/" style="display: inline-flex; align-items: center; margin-bottom: 10px;">LinkedIn</a><br/>
+  • <a href="mailto:kelvinzolotareff@gmail.com" style="display: inline-flex; align-items: center; margin-bottom: 10px;">Email</a>
+  • <a href="https://www.linkedin.com/in/kelvinzolotareff/" style="display: inline-flex; align-items: center; margin-bottom: 10px;">LinkedIn</a>
   • <a href="https://kelvinzolotareff.github.io" style="display: inline-flex; align-items: center;">Portfolio</a>
 </p>
 
-<h2 align="center">👨‍💻 Com mais de 5 anos de experiência em desenvolvimento com C# e .NET Framework, tenho atuado no desenvolvimento e suporte de aplicações web que impactaram mais de 400 empresas clientes. Participei de projetos-chave, contribuindo para o desenvolvimento de soluções escaláveis e confiáveis. Em meu tempo livre, gosto de explorar projetos de engenharia, robótica e internet das coisas, utilizando Arduino, Raspberry Pi, etc. Além de desenvolver jogos indies 2D/3D com Unity.</h2>
+<h4 align="center">👨‍💻 Com mais de 5 anos de experiência em desenvolvimento com C# e .NET Framework, tenho atuado no desenvolvimento e suporte de aplicações web que impactaram mais de 400 empresas clientes. Participei de projetos-chave, contribuindo para o desenvolvimento de soluções escaláveis e confiáveis. Em meu tempo livre, gosto de explorar projetos de engenharia, robótica e internet das coisas, utilizando Arduino, Raspberry Pi, etc. Além de desenvolver jogos indies 2D/3D com Unity.</h4>
 
 <h2 align="center">🏆 Principais Projetos</h2>
 <ul>
