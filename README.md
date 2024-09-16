@@ -19,7 +19,9 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<h4 align="center">👨‍💻 With over 5 years of experience in C# and .NET Framework development, I have worked on and supported web applications impacting more than 400 client companies. I’ve been part of key projects, contributing to scalable and reliable solutions. In my free time, I enjoy exploring engineering, robotics, and IoT projects using Arduino, Raspberry Pi, etc., as well as developing 2D/3D indie games with Unity.</h4>
+<h4 align="center">👨‍💻 With over 5 years of experience in C# and .NET Framework development, I have worked on and supported web applications impacting more than 400 client companies. I’ve been part of key projects, contributing to scalable and reliable solutions.
+In my free time, I enjoy exploring engineering, robotics, and IoT projects using Arduino, Raspberry Pi and other technologies, as well as developing 2D/3D indie games with Unity using C#.</h4>
+
 
 <h2 align="center">🏆 Key Projects</h2>
 <ul>
@@ -37,7 +39,8 @@
 <h2>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="30" alt="Brazil Flag"/> Portuguese</h2>
 
-<h4 align="center">👨‍💻 Com mais de 5 anos de experiência em desenvolvimento com C# e .NET Framework, tenho atuado no desenvolvimento e suporte de aplicações web que impactaram mais de 400 empresas clientes. Participei de projetos-chave, contribuindo para o desenvolvimento de soluções escaláveis e confiáveis. Em meu tempo livre, gosto de explorar projetos de engenharia, robótica e internet das coisas, utilizando Arduino, Raspberry Pi, etc. Além de desenvolver jogos indies 2D/3D com Unity.</h4>
+<h4 align="center">👨‍💻 Com mais de 5 anos de experiência em desenvolvimento com C# e .NET Framework, tenho atuado no desenvolvimento e suporte de aplicações web que impactaram mais de 400 empresas clientes. Participei de projetos-chave, contribuindo para o desenvolvimento de soluções escaláveis e confiáveis.
+Em meu tempo livre, gosto de explorar projetos de engenharia, robótica e internet das coisas, utilizando Arduino, Raspberry Pi e outras tecnologias. Além de desenvolver jogos indies 2D/3D com Unity utilizando C#.</h4>
 
 <h2 align="center">🏆 Principais Projetos</h2>
 <ul>
