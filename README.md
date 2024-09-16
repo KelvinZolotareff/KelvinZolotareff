@@ -19,7 +19,7 @@
 In my free time, I enjoy exploring engineering, robotics, and IoT projects using Arduino, Raspberry Pi and other technologies, as well as developing 2D/3D indie games with Unity using C#.</h4>
 
 
-<h2 align="center">🏆 Key Projects</h2>
+<h2 align="center">🏆 Projects</h2>
 <ul>
   <li><strong>AI Recruitment Analysis:</strong> Integrated AI analysis into the recruitment process, improving selection accuracy and efficiency.</li>
   <li><strong>Employee Relocation System:</strong> Developed a system to streamline employee relocation after contract termination, optimizing talent management and reducing turnover.</li>
