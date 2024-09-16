@@ -11,8 +11,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Azure-0000FF?style=flat&logo=MVC&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/IoT_Enthusiast-0000FF?style=flat&logo=&logoColor=white" alt="IoT Enthusiast"/>
   <img src="https://img.shields.io/badge/-Git-db0000?style=flat&logo=&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/IoT_Enthusiast-0000FF?style=flat&logo=&logoColor=white" alt="IoT Enthusiast"/>
 </p>
 
 <h4 align="left">👨‍💻 With over 5 years of experience in C# and .NET Framework development, I have worked on and supported web applications that impact more than 400 client companies. I’ve been part of key projects, contributing to scalable and reliable solutions.<br>
