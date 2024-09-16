@@ -1,5 +1,4 @@
-<h2>
-  <h1 align="center">
+<h1 align="center">
   Kelvin S. Zolotareff <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" width="30px" alt="Hello"/>
 </h1>
 
