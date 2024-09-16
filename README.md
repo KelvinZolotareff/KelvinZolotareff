@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<h4 align="center">👨‍💻 With over 5 years of experience in C# and .NET Framework development, I have worked on and supported web applications impacting more than 400 client companies. I’ve been part of key projects, contributing to scalable and reliable solutions.
+<h4 align="left">👨‍💻 With over 5 years of experience in C# and .NET Framework development, I have worked on and supported web applications impacting more than 400 client companies. I’ve been part of key projects, contributing to scalable and reliable solutions.<br>
 In my free time, I enjoy exploring engineering, robotics, and IoT projects using Arduino, Raspberry Pi and other technologies, as well as developing 2D/3D indie games with Unity using C#.</h4>
 
 
