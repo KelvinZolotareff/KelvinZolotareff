@@ -32,9 +32,9 @@ In my free time, I enjoy exploring engineering, robotics, and IoT projects using
 
 <h2 align="center">📬 Contact</h2>
 <p align="left">
-  • <a href="mailto:kelvinzolotareff@gmail.com" style="display: inline-flex; align-items: center; margin-bottom: 10px;">Email</a>
-  • <a href="https://www.linkedin.com/in/kelvinzolotareff/" style="display: inline-flex; align-items: center; margin-bottom: 10px;">LinkedIn</a>
-  • <a href="https://kelvinzolotareff.github.io" style="display: inline-flex; align-items: center;">Portfolio</a>
+  • Email: <a href="mailto:kelvinzolotareff@gmail.com" style="display: inline-flex; align-items: center; margin-bottom: 10px;">kelvinzolotareff@gmail.com</a>
+  • LinkedIn: <a href="https://www.linkedin.com/in/kelvinzolotareff/" style="display: inline-flex; align-items: center; margin-bottom: 10px;">KelvinZolotareff</a>
+  • Portfolio: <a href="https://kelvinzolotareff.github.io" style="display: inline-flex; align-items: center;">kelvinzolotareff.github.io</a>
 </p>
 <h2>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="30" alt="Brazil Flag"/> Portuguese</h2>
