@@ -1,5 +1,4 @@
 <h2>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/2560px-Flag_of_Canada.svg.png" width="30" alt="Canada Flag"/> English</h2>
   <h1 align="center">
   Kelvin S. Zolotareff <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" width="30px" alt="Hello"/>
 </h1>
