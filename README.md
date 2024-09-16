@@ -3,18 +3,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.netcore&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=entity-framework&logoColor=white" alt="Entity Framework"/>
-  <img src="https://img.shields.io/badge/MVC-b5008c?style=flat&logo=MVC&logoColor=white" alt="MVC"/>
-  <img src="https://img.shields.io/badge/-SQL%20Server-b5a700?style=flat&logo=MVC&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/-C%23-028c00?style=shadow&logo=c-sharp&logoColor=black" alt="C#"/>
+  <img src="https://img.shields.io/badge/-.NET-5c048f?style=flat&logo=.netcore&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Web%20Developer-5c048f?style=flat&logo=entity-framework&logoColor=white" alt="Web Developer"/>
+  <img src="https://img.shields.io/badge/-SQL%20Server-db0000?style=shadow&logo=c-sharp&logoColor=black" alt="SQL Server"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/IoT_Enthusiast-0000FF?style=flat&logo=arduino&logoColor=white" alt="IoT Enthusiast"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-0078D7?style=flat&logo=azure-pipelines" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Azure-0000FF?style=flat&logo=MVC&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/-Git-db0000?style=flat&logo=&logoColor=white" alt="Git"/>
 </p>
 
 <h4 align="left">👨‍💻 With over 5 years of experience in C# and .NET Framework development, I have worked on and supported web applications that impact more than 400 client companies. I’ve been part of key projects, contributing to scalable and reliable solutions.<br>
