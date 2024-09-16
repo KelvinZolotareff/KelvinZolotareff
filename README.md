@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/-.NET%20Framework-512BD4?style=flat&logo=.net&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.netcore&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=entity-framework&logoColor=white" alt="Entity Framework"/>
   <img src="https://img.shields.io/badge/MVC-b5008c?style=flat&logo=MVC&logoColor=white" alt="MVC"/>
   <img src="https://img.shields.io/badge/-SQL%20Server-b5a700?style=flat&logo=MVC&logoColor=white" alt="SQL Server"/>
