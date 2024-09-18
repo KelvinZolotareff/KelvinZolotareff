@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/IoT_Enthusiast-0000FF?style=flat&logo=&logoColor=white" alt="IoT Enthusiast"/>
 </p>
 
-<h4 align="left">👨‍💻 With over 5 years of experience in C# and .NET Framework development, I have worked on and supported web applications that impact more than 400 client companies. I’ve been part of key projects, contributing to scalable and reliable solutions.<br>
+<h4 align="left">👨‍💻 With over 5 years of experience in C# and .NET Framework development, I have worked on and supported web applications that impact more than 300 client companies. I’ve been part of key projects, contributing to scalable and reliable solutions.<br>
 In my free time, I enjoy exploring engineering, robotics, and IoT projects using Arduino, Raspberry Pi and other technologies, as well as developing 2D/3D indie games with Unity using C#.</h4>
 
 
