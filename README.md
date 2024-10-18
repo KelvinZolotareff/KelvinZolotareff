@@ -35,7 +35,7 @@ In my free time, I enjoy exploring engineering, robotics, and IoT projects using
 <h2>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="30" alt="Brazil Flag"/> Portuguese</h2>
 
-<h4 align="left">👨‍💻 Com mais de 5 anos de experiência em desenvolvimento com C# e .NET Framework, tenho atuado no desenvolvimento e suporte de aplicações web que impactaram mais de 400 empresas clientes. Participei de projetos-chave, contribuindo para o desenvolvimento de soluções escaláveis e confiáveis.<br>
+<h4 align="left">👨‍💻 Com mais de 5 anos de experiência em desenvolvimento com C# e .NET Framework, tenho atuado no desenvolvimento e suporte de aplicações web que impactaram mais de 300 empresas clientes. Participei de projetos-chave, contribuindo para o desenvolvimento de soluções escaláveis e confiáveis.<br>
 Em meu tempo livre, gosto de explorar projetos de engenharia, robótica e internet das coisas, utilizando Arduino, Raspberry Pi e outras tecnologias. Além de desenvolver jogos indies 2D/3D com Unity utilizando C#.</h4>
 
 <h2 align="center">🏆 Principais Projetos</h2>
