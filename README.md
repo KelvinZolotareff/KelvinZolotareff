@@ -30,6 +30,6 @@ In my free time, I enjoy exploring engineering, robotics, and IoT projects using
 <p align="left">
   • Email: <a href="mailto:kelvinzolotareff@gmail.com" style="display: inline-flex; align-items: center; margin-bottom: 10px;">kelvinzolotareff@gmail.com</a>
   • LinkedIn: <a href="https://www.linkedin.com/in/kelvinzolotareff/" style="display: inline-flex; align-items: center; margin-bottom: 10px;">KelvinZolotareff</a>
-  • Portfolio: <a href="https://kelvinzolotareff.github.io" style="display: inline-flex; align-items: center;">kelvinzolotareff.github.io</a>
+  • Portfolio: <a href="https://kelvinzolotareff.vercel.app/" style="display: inline-flex; align-items: center;">kelvinzolotareff.vercel.app</a>
 </p>
 <h2>
