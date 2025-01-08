@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/IoT_Enthusiast-0000FF?style=flat&logo=&logoColor=white" alt="IoT Enthusiast"/>
 </p>
 
-<h4 align="left">👨‍💻 With over 4 years of experience in C# and .NET Framework development, I have worked on and supported web applications that impact more than 300 client companies. I’ve been part of key projects, contributing to scalable and reliable solutions.<br>
-In my free time, I enjoy exploring engineering, robotics, and IoT projects using Arduino, Raspberry Pi and other technologies, as well as developing 2D/3D indie games with Unity using C#.</h4>
+<h4 align="left">👨‍💻 With over 5 years of experience in C# and .NET Framework development, I have worked on and supported web applications that impact more than 300 client companies. I’ve been part of key projects, contributing to scalable and reliable solutions.<br>
+In my free time, I enjoy exploring engineering and robotics.</h4>
 
 
 <h2 align="center">🏆 Projects</h2>
@@ -30,6 +30,5 @@ In my free time, I enjoy exploring engineering, robotics, and IoT projects using
 <p align="left">
   • Email: <a href="mailto:kelvinzolotareff@gmail.com" style="display: inline-flex; align-items: center; margin-bottom: 10px;">kelvinzolotareff@gmail.com</a>
   • LinkedIn: <a href="https://www.linkedin.com/in/kelvinzolotareff/" style="display: inline-flex; align-items: center; margin-bottom: 10px;">KelvinZolotareff</a>
-  • Portfolio: <a href="https://kelvinzolotareff.vercel.app/" style="display: inline-flex; align-items: center;">kelvinzolotareff.vercel.app</a>
 </p>
 <h2>
