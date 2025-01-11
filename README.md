@@ -15,20 +15,20 @@
   <img src="https://img.shields.io/badge/IoT_Enthusiast-0000FF?style=flat&logo=&logoColor=white" alt="IoT Enthusiast"/>
 </p>
 
-<h4 align="left">👨‍💻 With over 4 years of experience in C# and .NET Framework development, I have worked on and supported web applications that impact more than 300 client companies. I’ve been part of key projects, contributing to scalable and reliable solutions.<br>
-In my free time, I enjoy exploring engineering and robotics.</h4>
-
+<h4 align="left">👨‍💻 With over 5 years of experience in developing scalable web applications using C#, .NET Core, and SQL Server, I've contributed to projects that have positively impacted major systems. My work spans AI integrations, process optimization, and system migrations, always focusing on creating efficient, maintainable solutions. I enjoy exploring engineering, robotics, and emerging technologies in my spare time.</h4>
 
 <h2 align="center">🏆 Projects</h2>
 <ul>
-  <li><strong>AI Recruitment Analysis:</strong> Integrated AI analysis into the recruitment process, improving selection accuracy and efficiency.</li>
-  <li><strong>Employee Relocation System:</strong> Developed a system to streamline employee relocation after contract termination, optimizing talent management and reducing turnover.</li>
-  <li><strong>Atento AI Studio:</strong> Contributed to the development of Atento AI Studio, a platform integrating AI-driven solutions to enhance decision-making and automate processes across departments.</li>
+  <li><strong>AI Recruitment Analysis:</strong> Integrated AI-driven analysis into the recruitment process, enhancing selection accuracy and operational efficiency.</li>
+  <li><strong>Employee Relocation System:</strong> Developed a solution for streamlining employee relocations after contract termination, improving talent retention by 60%.</li>
+  <li><strong>Atento AI Studio:</strong> Contributed to the development of a platform using AI to automate processes and enhance decision-making, improving customer satisfaction by 22%.</li>
+  <li><strong>System Migrations:</strong> Led the migration of legacy systems to .NET Core, improving system performance, scalability, and bug resolution.</li>
 </ul>
 
 <h2 align="center">📬 Contact</h2>
 <p align="left">
-  • Email: <a href="mailto:kelvinzolotareff@gmail.com" style="display: inline-flex; align-items: center; margin-bottom: 10px;">kelvinzolotareff@gmail.com</a>
+  • Email: <a href="mailto:kelvinzolotareff@gmail.com" style="display: inline-flex; align-items: center; margin-bottom: 10px;">kelvinzolotareff@gmail.com</a><br>
   • LinkedIn: <a href="https://www.linkedin.com/in/kelvinzolotareff/" style="display: inline-flex; align-items: center; margin-bottom: 10px;">KelvinZolotareff</a>
 </p>
+
 <h2>
