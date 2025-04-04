@@ -22,13 +22,13 @@
   <li><strong>AI Recruitment Analysis:</strong> Integrated AI-driven analysis into the recruitment process, enhancing selection accuracy and operational efficiency.</li>
   <li><strong>Employee Relocation System:</strong> Developed a solution for streamlining employee relocations after contract termination, improving talent retention by 60%.</li>
   <li><strong>Atento AI Studio:</strong> Contributed to the development of a platform using AI to automate processes and enhance decision-making, improving customer satisfaction by 22%.</li>
-  <li><strong>System Migrations:</strong> Led the migration of legacy systems to .NET Core, improving system performance, scalability, and bug resolution.</li>
+  <li><strong>System Migrations:</strong> Led the migration of legacy systems to .NET Core, improving system performance, scalability, and resolving 20+ critical recurring bugs.</li>
 </ul>
 
 <h2 align="center">📬 Contact</h2>
 <p align="left">
-  • Email: <a href="mailto:kelvinzolotareff@gmail.com" style="display: inline-flex; align-items: center; margin-bottom: 10px;">kelvinzolotareff@gmail.com</a><br>
   • LinkedIn: <a href="https://www.linkedin.com/in/kelvinzolotareff/" style="display: inline-flex; align-items: center; margin-bottom: 10px;">KelvinZolotareff</a>
+  • Email: <a href="mailto:kelvinzolotareff@gmail.com" style="display: inline-flex; align-items: center; margin-bottom: 10px;">kelvinzolotareff@gmail.com</a><br>
 </p>
 
 <h2>
