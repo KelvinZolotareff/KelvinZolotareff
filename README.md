@@ -45,6 +45,7 @@
 <p align="left">
   • LinkedIn: <a href="https://www.linkedin.com/in/kelvinzolotareff/" style="display: inline-flex; align-items: center; margin-bottom: 10px;">KelvinZolotareff</a>
   • Email: <a href="mailto:kelvinzolotareff@gmail.com" style="display: inline-flex; align-items: center; margin-bottom: 10px;">kelvinzolotareff@gmail.com</a><br>
+  • Whatsapp: <a href="https://wa.me/+5511943032390?text=Ol%C3%A1%2C%20Kelvin!" style="display: inline-flex; align-items: center; margin-bottom: 10px;">+55 11 94303-2390</a> 
 </p>
 
 <h2>
